@@ -1,0 +1,15 @@
+
+th{
+    background-color: rgb(125, 196, 113);
+ }
+  
+  th,
+  td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  #main{
+    padding-left: 570px;
+  }
